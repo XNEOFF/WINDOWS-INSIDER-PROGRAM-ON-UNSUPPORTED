@@ -11,7 +11,7 @@ This script is compatible only with Windows 11 or Windows 10 version 1809 and la
 
 Official https://github.com/abbodi1406/offlineinsiderenroll/
 
-Unofficial (Latest Windows Insider Program And Bypass Requirements ) https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/
+Unofficial (Latest Update Windows Insider Program And Bypass Requirements ) https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/
   
 ## Usage
 
