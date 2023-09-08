@@ -17,6 +17,8 @@ if you got this
 
 ![the-pc-must-have-tpm-2-secure-boot](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/assets/111242581/6e6f7c2e-02f2-4d5a-b870-ec9235301871)
 
+Then Press Next In Startup And When Window startup Close | Use this for Bypass Requirements https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/download/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/BypasserRequirements.bat
+
   
 ## Usage
 
