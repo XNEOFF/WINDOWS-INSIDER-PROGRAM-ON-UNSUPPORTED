@@ -12,6 +12,9 @@ This script is compatible only with Windows 11 or Windows 10 version 1809 and la
 Official https://github.com/abbodi1406/offlineinsiderenroll/
 
 Unofficial (Latest Update Windows Insider Program And Bypass Requirements ) https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/
+
+if you got this ![the-pc-must-have-tpm-2-secure-boot](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/assets/111242581/6e6f7c2e-02f2-4d5a-b870-ec9235301871)
+
   
 ## Usage
 
