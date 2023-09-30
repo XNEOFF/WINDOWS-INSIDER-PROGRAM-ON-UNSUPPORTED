@@ -9,7 +9,7 @@ to the Windows Insider Program on machines not signed in with Microsoft Account.
 
 This script is compatible only with Windows 11 or Windows 10 version 1809 and later.
 
-Official https://github.com/abbodi1406/offlineinsiderenroll/
+Official [https://github.com/abbodi1406/offlineinsiderenroll/](https://github.com/abbodi1406/offlineinsiderenroll/releases/tag/2.6.4)
 
 Unofficial (Latest Update Windows Insider Program And Bypass Requirements And Updates ) [https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/tag/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED)
 
