@@ -11,7 +11,7 @@ This script is compatible only with Windows 11 or Windows 10 version 1809 and la
 
 Official [abbodi](https://github.com/abbodi1406/offlineinsiderenroll/releases/tag/2.6.4)
 
-Unofficial [XNEO](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/tag/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED) (Latest Update Windows Insider Program And Bypass Requirements And Updates )
+Unofficial [XNEO](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/tag/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED) (Latest Update Windows Insider Program, Bypass Requirements, Updates, Changelogs! )
 
 if you got this when you download Windows Insider Program from Windows Update
 
