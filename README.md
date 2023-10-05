@@ -17,7 +17,7 @@ if you got this when you download Windows Insider Program from Windows Update
 
 ![132799054-09a34886-feeb-468b-b1b5-3ac39349fab3](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/assets/111242581/52ab8c6a-7c34-4976-a539-013b266b2037)
 
-Then Press Close In Startup And When Window Startup Close | [Download Bypasser Requirements]([https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/download/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/XNEOInsiderEnrollUnofficial.bat](https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/download/XNEO/XNEOInsiderEnrollUnofficial.bat))
+Then Press Close In Startup And When Window Startup Close | [Download Bypasser Requirements]((https://github.com/XNEOFF/WINDOWS-INSIDER-PROGRAM-ON-UNSUPPORTED/releases/download/XNEO/XNEOInsiderEnrollUnofficial.bat))
  | Use this for Bypass Requirements Startup And Press 6
   
 ## Usage
