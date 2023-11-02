@@ -1,3 +1,1 @@
-set version=3.8.4.9
-IF NOT %version%==3.8.4.9 goto :CFU
-IF %version%==3.8.4.9 goto UTP
+set version=2.6.4.9
