@@ -1,7 +1,10 @@
 ChangeLogs:
+V4
+ChangeLog: Script has been fixed to display the updates of the script instead of the status of the script.
 
-V3.1
-ChangeLog: Fix Update System is not reponding to updates, Resolved Several Problems, Enhanced the script by incorporating additional words to provide a clearer explanation of its functionality.
+
+V3.1 System is not reponding to updates, Resolved Several Problems, Enhanced the script by incorporating additional words to provide a clearer explanation of its functionality.
+ChangeLog: Fix Update
 
 V3
 ChangeLog: Fix Patched Bypasser Requirements, Added Status Script, Resolved Several Problems
